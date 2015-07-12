@@ -1,3 +1,4 @@
+#read data
 source("utils.R");
 
 # Render an histogram of frequency Vs Global Active Power
