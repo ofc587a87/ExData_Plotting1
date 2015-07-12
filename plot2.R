@@ -17,7 +17,7 @@ renderPlot2 <- function()
     dev.off();
     
     #all done!
-    message("PLot 2 generated!");
+    message("Plot 2 generated!");
 }
 
 renderPlot2();
