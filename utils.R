@@ -2,6 +2,7 @@
 
 # library("sqldf");
 
+
 # Read the dta file and return the data, filtered and converted, ready to be processed.
 readFile <- function() {
     
